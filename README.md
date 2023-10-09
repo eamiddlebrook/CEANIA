@@ -4,7 +4,7 @@ Calculate Exact Average Nucleotide Identity from Alignments
 ### Read in an aligned multi-fasta and send all pairwise ANI values to STDout.
 Usage:
 ```
-python ceania.py.py ~/${path_to_multifasta_file} ${threads}
+python ceania.py ~/${path_to_multifasta_file} ${threads}
 ```
 
 ### Can digest an alignment file with an arbetrary number of alignments and length.
